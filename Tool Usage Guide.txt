@@ -1,0 +1,8 @@
+Harrisburg Food Lover: 
+-----------------------------
+1. Open HU.FoodLovers.AngularBootstrap from folder "HU.FoodLovers.AngularBootstrap" with Visual Studio.
+2. Press F5 to run the application.
+3. The app will run on default browser.
+4. The app will list all the restaurants by default.
+5. Search your cuisine by typing it on textbox
+
